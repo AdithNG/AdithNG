@@ -76,7 +76,7 @@ A mini circuit simulator with a C++ core + Python interface.
 ## 📫 Reach me
 
 📧 adithnishanth@gmail.com  
-💼 LinkedIn: ([your link](https://www.linkedin.com/in/adithgunaseelan/))
+💼 LinkedIn: ([link](https://www.linkedin.com/in/adithgunaseelan/))
 
 ---
 
